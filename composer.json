@@ -1,7 +1,9 @@
 {
     "name": "margarinas/cakephp-cms",
+    "type": "cakephp-plugin",
     "description": "A simple CMS for cakephp",
     "minimum-stability": "dev",
+    "license": "MIT",
     "require": {
 
     }
