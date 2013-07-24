@@ -9,7 +9,7 @@
 				echo $this->BootstrapForm->input('content');
 				echo $this->BootstrapForm->input('order');
 				echo $this->BootstrapForm->input('parent_id');
-				echo $this->BootstrapForm->input('post_type');
+				echo $this->BootstrapForm->input('post_type',array('options'=>array('post'=>'Įrašas','page'=>'Puslapis')));
 				echo $this->BootstrapForm->input('Taxonomy');
 				?>
 				<?php echo $this->BootstrapForm->submit(__('Submit'));?>

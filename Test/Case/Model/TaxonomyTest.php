@@ -13,7 +13,9 @@ class TaxonomyTest extends CakeTestCase {
  * @var array
  */
 	public $fixtures = array(
-		'plugin.cms.taxonomy'
+		'plugin.cms.taxonomy',
+		'plugin.cms.post',
+		'plugin.cms.posts_taxonomy'
 	);
 
 /**

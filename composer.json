@@ -1,0 +1,8 @@
+{
+    "name": "margarinas/cakephp-cms",
+    "description": "A simple CMS for cakephp",
+    "minimum-stability": "dev",
+    "require": {
+
+    }
+}
